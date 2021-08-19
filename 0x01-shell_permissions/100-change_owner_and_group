@@ -1,2 +1,3 @@
+#!/bin/bash
 chown vincent -R ./*
 chgrp staff -R ./*
