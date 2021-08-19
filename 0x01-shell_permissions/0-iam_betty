@@ -1,1 +1,1 @@
-su betty
+su - betty
