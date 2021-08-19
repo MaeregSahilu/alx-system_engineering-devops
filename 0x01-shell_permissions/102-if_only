@@ -1,0 +1,1 @@
+find hello -user guillaume -exec chown betty {} \;

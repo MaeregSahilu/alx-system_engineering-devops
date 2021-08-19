@@ -1,0 +1,6 @@
+#!/bin/bash
+echo "installing telnet ..."
+sudo apt install telnet 
+wait $!
+'press ctrl+C OR ctrl+] then type quit to exit'
+telnet towel.blinkenlights.nl
