@@ -1,2 +1,2 @@
 #!/bin/bash
-find ! -name *.* -exec chmod 700 {} \;
+chmod 444 -R
