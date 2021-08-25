@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -v 'bin' /etc/passwd | xargs echo 
+grep -v "bin" /etc/passwd | xargs echo 
