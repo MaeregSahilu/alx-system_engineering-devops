@@ -1,2 +1,2 @@
 #!/bin/bash
-grep !'bin'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 /etc/passwd | xargs echo 
+grep !'bin' /etc/passwd | xargs echo 
